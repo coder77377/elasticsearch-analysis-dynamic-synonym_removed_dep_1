@@ -1,0 +1,8 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>org.codelibs.elasticsearch.module</groupId
+	<artifactId>analysis-common</artifactId
+</dependency>
+```
